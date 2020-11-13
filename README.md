@@ -5,6 +5,6 @@
 <br/> 
 * 네이버 블로그 : https://blog.naver.com/sso_0022
 <br/> 
-* 티스토리 블로그 : https://rata-donny.tistory.com/
+* 기술 블로그 : https://velog.io/@sso0022
 <br/>
 * 메일 주소 : sso_0022@naver.com
