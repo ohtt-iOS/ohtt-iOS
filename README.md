@@ -1,4 +1,4 @@
-<img width = 1000 src =https://images.velog.io/images/sso0022/post/8323c4bc-9b96-4fc8-9180-29d2e47302be/%E1%84%8C%E1%85%A6%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A2%E1%84%8C%E1%85%AE%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AD._1%20(2)%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%E1%84%87%E1%85%A9%E1%86%AB.png>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=350&section=header&text=sOyOung&fontSize=80&animation=fainIn)
 
 <h3 align="center"> 주어진 일에 최선을 다하는 것뿐만 아니라<br/> 
 더 좋은 서비스를 만들기 위해 항상 고민하는<br/> 
