@@ -15,7 +15,7 @@
 <br/> 
 
 
-<p align="center"><a href="https://velog.io/@sso0022"><img src="https://img.shields.io/badge/Tech Blog-1ec997?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>    <a href="https://www.notion.so/gwajeong-b8f2cf13f5924fdcad552be7851960d5"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>
+<p align="center"><a href="https://velog.io/@sso0022"><img src="https://img.shields.io/badge/Tech Blog-1ec997?style=flat-square&logo=Vimeo&logoColor=white&link=내링크"/></a>    <a href="https://www.notion.so/gwajeong-b8f2cf13f5924fdcad552be7851960d5"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=내링크"/></a>
   
 <br/>
 <br/>
