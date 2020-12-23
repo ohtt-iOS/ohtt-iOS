@@ -1,4 +1,15 @@
+
+
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=sOyOung&fontSize=80&animation=twinkling)
+
+<br/> 
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/68267763/102995470-752f1c80-4564-11eb-9783-3b281f859208.png" alt="hello" width="50%" height="50%"/>
+</p>
+
+<br/> 
+
 
 <h3 align="center"> 주어진 일에 최선을 다하는 것뿐만 아니라<br/> 
 더 좋은 서비스를 만들기 위해 항상 고민하는<br/> 
