@@ -2,11 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=sOyOung&fontSize=80&animation=twinkling)
 
-<br/> 
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/68267763/102995470-752f1c80-4564-11eb-9783-3b281f859208.png" alt="hello" width="50%" height="50%"/>
-</p>
 
 <br/> 
 
