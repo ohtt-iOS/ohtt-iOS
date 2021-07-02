@@ -6,7 +6,7 @@
 <br/> 
 
 
-<h3 align="center"> I wanna be a iOS developer<br/> 
+<h3 align="center"> iOS developer<br/> 
 
 </h3>
 
