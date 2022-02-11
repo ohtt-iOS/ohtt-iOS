@@ -14,7 +14,8 @@
   
 </br>
 <br/>
-<p align="center"><a href="https://ohttios.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-1ec997?style=for-the-badge&logo=Vimeo&logoColor=white&link=내링크"/></a>    
+<p align="center"><a href="https://ohttios.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-b0d4ff?style=for-the-badge&logo=Vimeo&logoColor=black&link=내링크"/></a>    
+<a href="https://truth-aerosteon-d09.notion.site/ohtt-dbedbdb778d84f57b6af0d37d44cf6ff"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=내링크"/></a>    
 <br/>
 <br/>
 
@@ -46,4 +47,4 @@
 <br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtt-iOS&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohtt-iOS&show_icons=true&theme=graywhite)
